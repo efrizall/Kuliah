@@ -98,5 +98,7 @@ public class Tugas_12_PBO{
             System.out.println("Putih");
         }
 */
+
+        System.out.println("Efrizal");
     }
 }
